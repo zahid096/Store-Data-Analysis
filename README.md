@@ -2,7 +2,7 @@
 Excel-based sales analysis &amp; interactive dashboard for Vrinda Store.
 
 ## Dataset
-- File: 'Vrinda Store Data Analysis_using excel.xlsx'
+- File: '<a href="https://github.com/zahid096/Store-Data-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis_using%20excel.xlsx">Vrinda Store Data</a>'
 - Contents: sales transactions with columns like Date, Product, Category, Quantity, Price, Region, Customer
 
 ## Tools
